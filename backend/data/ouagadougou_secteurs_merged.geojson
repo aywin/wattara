@@ -1,0 +1,4545 @@
+{
+  "type": "FeatureCollection",
+  "name": "Secteurs de Ouagadougou",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 1,
+        "name": "Baskuy",
+        "nom": "Baskuy",
+        "arrondissement": 1,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.51878,
+              12.37
+            ],
+            [
+              -1.519357,
+              12.375586
+            ],
+            [
+              -1.52529,
+              12.377416
+            ],
+            [
+              -1.53,
+              12.381982
+            ],
+            [
+              -1.534861,
+              12.377654
+            ],
+            [
+              -1.540203,
+              12.375355
+            ],
+            [
+              -1.541773,
+              12.37
+            ],
+            [
+              -1.538424,
+              12.365579
+            ],
+            [
+              -1.536589,
+              12.359624
+            ],
+            [
+              -1.53,
+              12.36144
+            ],
+            [
+              -1.523851,
+              12.360318
+            ],
+            [
+              -1.520291,
+              12.364904
+            ],
+            [
+              -1.51878,
+              12.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 2,
+        "name": "Koulouba",
+        "nom": "Koulouba",
+        "arrondissement": 1,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.50865,
+              12.372
+            ],
+            [
+              -1.509131,
+              12.376655
+            ],
+            [
+              -1.514075,
+              12.37818
+            ],
+            [
+              -1.518,
+              12.381985
+            ],
+            [
+              -1.522051,
+              12.378378
+            ],
+            [
+              -1.526503,
+              12.376463
+            ],
+            [
+              -1.527811,
+              12.372
+            ],
+            [
+              -1.52502,
+              12.368315
+            ],
+            [
+              -1.523491,
+              12.363354
+            ],
+            [
+              -1.518,
+              12.364867
+            ],
+            [
+              -1.512876,
+              12.363932
+            ],
+            [
+              -1.509909,
+              12.367753
+            ],
+            [
+              -1.50865,
+              12.372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 3,
+        "name": "Rotonde",
+        "nom": "Rotonde",
+        "arrondissement": 1,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.51865,
+              12.362
+            ],
+            [
+              -1.519131,
+              12.366655
+            ],
+            [
+              -1.524075,
+              12.36818
+            ],
+            [
+              -1.528,
+              12.371985
+            ],
+            [
+              -1.532051,
+              12.368378
+            ],
+            [
+              -1.536503,
+              12.366463
+            ],
+            [
+              -1.537811,
+              12.362
+            ],
+            [
+              -1.53502,
+              12.358315
+            ],
+            [
+              -1.533491,
+              12.353354
+            ],
+            [
+              -1.528,
+              12.354867
+            ],
+            [
+              -1.522876,
+              12.353932
+            ],
+            [
+              -1.519909,
+              12.357753
+            ],
+            [
+              -1.51865,
+              12.362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 4,
+        "name": "Zangouettin",
+        "nom": "Zangouettin",
+        "arrondissement": 1,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53065,
+              12.375
+            ],
+            [
+              -1.531131,
+              12.379655
+            ],
+            [
+              -1.536075,
+              12.38118
+            ],
+            [
+              -1.54,
+              12.384985
+            ],
+            [
+              -1.544051,
+              12.381378
+            ],
+            [
+              -1.548503,
+              12.379463
+            ],
+            [
+              -1.549811,
+              12.375
+            ],
+            [
+              -1.54702,
+              12.371315
+            ],
+            [
+              -1.545491,
+              12.366354
+            ],
+            [
+              -1.54,
+              12.367867
+            ],
+            [
+              -1.534876,
+              12.366932
+            ],
+            [
+              -1.531909,
+              12.370753
+            ],
+            [
+              -1.53065,
+              12.375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 5,
+        "name": "Kamsonghin",
+        "nom": "Kamsonghin",
+        "arrondissement": 1,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.51265,
+              12.382
+            ],
+            [
+              -1.513131,
+              12.386655
+            ],
+            [
+              -1.518075,
+              12.38818
+            ],
+            [
+              -1.522,
+              12.391985
+            ],
+            [
+              -1.526051,
+              12.388378
+            ],
+            [
+              -1.530503,
+              12.386463
+            ],
+            [
+              -1.531811,
+              12.382
+            ],
+            [
+              -1.52902,
+              12.378315
+            ],
+            [
+              -1.527491,
+              12.373354
+            ],
+            [
+              -1.522,
+              12.374867
+            ],
+            [
+              -1.516876,
+              12.373932
+            ],
+            [
+              -1.513909,
+              12.377753
+            ],
+            [
+              -1.51265,
+              12.382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 6,
+        "name": "Paspanga",
+        "nom": "Paspanga",
+        "arrondissement": 1,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "OSM-réel",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie",
+        "osm_id": "way/27895707"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5260337,
+              12.3792172
+            ],
+            [
+              -1.5253352,
+              12.3763443
+            ],
+            [
+              -1.5144219,
+              12.3789667
+            ],
+            [
+              -1.5152619,
+              12.3818491
+            ],
+            [
+              -1.5213772,
+              12.3803549
+            ],
+            [
+              -1.521424,
+              12.3803435
+            ],
+            [
+              -1.5260337,
+              12.3792172
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 7,
+        "name": "Dapoya",
+        "nom": "Dapoya",
+        "arrondissement": 2,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53678,
+              12.372
+            ],
+            [
+              -1.537357,
+              12.377586
+            ],
+            [
+              -1.54329,
+              12.379416
+            ],
+            [
+              -1.548,
+              12.383982
+            ],
+            [
+              -1.552861,
+              12.379654
+            ],
+            [
+              -1.558203,
+              12.377355
+            ],
+            [
+              -1.559773,
+              12.372
+            ],
+            [
+              -1.556424,
+              12.367579
+            ],
+            [
+              -1.554589,
+              12.361624
+            ],
+            [
+              -1.548,
+              12.36344
+            ],
+            [
+              -1.541851,
+              12.362318
+            ],
+            [
+              -1.538291,
+              12.366904
+            ],
+            [
+              -1.53678,
+              12.372
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 8,
+        "name": "Hamdalaye",
+        "nom": "Hamdalaye",
+        "arrondissement": 2,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55078,
+              12.378
+            ],
+            [
+              -1.551357,
+              12.383586
+            ],
+            [
+              -1.55729,
+              12.385416
+            ],
+            [
+              -1.562,
+              12.389982
+            ],
+            [
+              -1.566861,
+              12.385654
+            ],
+            [
+              -1.572203,
+              12.383355
+            ],
+            [
+              -1.573773,
+              12.378
+            ],
+            [
+              -1.570424,
+              12.373579
+            ],
+            [
+              -1.568589,
+              12.367624
+            ],
+            [
+              -1.562,
+              12.36944
+            ],
+            [
+              -1.555851,
+              12.368318
+            ],
+            [
+              -1.552291,
+              12.372904
+            ],
+            [
+              -1.55078,
+              12.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 9,
+        "name": "Ouidi",
+        "nom": "Ouidi",
+        "arrondissement": 2,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.54378,
+              12.362
+            ],
+            [
+              -1.544357,
+              12.367586
+            ],
+            [
+              -1.55029,
+              12.369416
+            ],
+            [
+              -1.555,
+              12.373982
+            ],
+            [
+              -1.559861,
+              12.369654
+            ],
+            [
+              -1.565203,
+              12.367355
+            ],
+            [
+              -1.566773,
+              12.362
+            ],
+            [
+              -1.563424,
+              12.357579
+            ],
+            [
+              -1.561589,
+              12.351624
+            ],
+            [
+              -1.555,
+              12.35344
+            ],
+            [
+              -1.548851,
+              12.352318
+            ],
+            [
+              -1.545291,
+              12.356904
+            ],
+            [
+              -1.54378,
+              12.362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 10,
+        "name": "Sankariaré",
+        "nom": "Sankariaré",
+        "arrondissement": 2,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55878,
+              12.368
+            ],
+            [
+              -1.559357,
+              12.373586
+            ],
+            [
+              -1.56529,
+              12.375416
+            ],
+            [
+              -1.57,
+              12.379982
+            ],
+            [
+              -1.574861,
+              12.375654
+            ],
+            [
+              -1.580203,
+              12.373355
+            ],
+            [
+              -1.581773,
+              12.368
+            ],
+            [
+              -1.578424,
+              12.363579
+            ],
+            [
+              -1.576589,
+              12.357624
+            ],
+            [
+              -1.57,
+              12.35944
+            ],
+            [
+              -1.563851,
+              12.358318
+            ],
+            [
+              -1.560291,
+              12.362904
+            ],
+            [
+              -1.55878,
+              12.368
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 11,
+        "name": "Nimnin",
+        "nom": "Nimnin",
+        "arrondissement": 2,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.56865,
+              12.375
+            ],
+            [
+              -1.569131,
+              12.379655
+            ],
+            [
+              -1.574075,
+              12.38118
+            ],
+            [
+              -1.578,
+              12.384985
+            ],
+            [
+              -1.582051,
+              12.381378
+            ],
+            [
+              -1.586503,
+              12.379463
+            ],
+            [
+              -1.587811,
+              12.375
+            ],
+            [
+              -1.58502,
+              12.371315
+            ],
+            [
+              -1.583491,
+              12.366354
+            ],
+            [
+              -1.578,
+              12.367867
+            ],
+            [
+              -1.572876,
+              12.366932
+            ],
+            [
+              -1.569909,
+              12.370753
+            ],
+            [
+              -1.56865,
+              12.375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 12,
+        "name": "Naab Pougo",
+        "nom": "Naab Pougo",
+        "arrondissement": 3,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.48878,
+              12.392
+            ],
+            [
+              -1.489357,
+              12.397586
+            ],
+            [
+              -1.49529,
+              12.399416
+            ],
+            [
+              -1.5,
+              12.403982
+            ],
+            [
+              -1.504861,
+              12.399654
+            ],
+            [
+              -1.510203,
+              12.397355
+            ],
+            [
+              -1.511773,
+              12.392
+            ],
+            [
+              -1.508424,
+              12.387579
+            ],
+            [
+              -1.506589,
+              12.381624
+            ],
+            [
+              -1.5,
+              12.38344
+            ],
+            [
+              -1.493851,
+              12.382318
+            ],
+            [
+              -1.490291,
+              12.386904
+            ],
+            [
+              -1.48878,
+              12.392
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 13,
+        "name": "Zongho",
+        "nom": "Zongho",
+        "arrondissement": 3,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.47678,
+              12.385
+            ],
+            [
+              -1.477357,
+              12.390586
+            ],
+            [
+              -1.48329,
+              12.392416
+            ],
+            [
+              -1.488,
+              12.396982
+            ],
+            [
+              -1.492861,
+              12.392654
+            ],
+            [
+              -1.498203,
+              12.390355
+            ],
+            [
+              -1.499773,
+              12.385
+            ],
+            [
+              -1.496424,
+              12.380579
+            ],
+            [
+              -1.494589,
+              12.374624
+            ],
+            [
+              -1.488,
+              12.37644
+            ],
+            [
+              -1.481851,
+              12.375318
+            ],
+            [
+              -1.478291,
+              12.379904
+            ],
+            [
+              -1.47678,
+              12.385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 14,
+        "name": "Noncin",
+        "nom": "Noncin",
+        "arrondissement": 3,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.49878,
+              12.405
+            ],
+            [
+              -1.499357,
+              12.410586
+            ],
+            [
+              -1.50529,
+              12.412416
+            ],
+            [
+              -1.51,
+              12.416982
+            ],
+            [
+              -1.514861,
+              12.412654
+            ],
+            [
+              -1.520203,
+              12.410355
+            ],
+            [
+              -1.521773,
+              12.405
+            ],
+            [
+              -1.518424,
+              12.400579
+            ],
+            [
+              -1.516589,
+              12.394624
+            ],
+            [
+              -1.51,
+              12.39644
+            ],
+            [
+              -1.503851,
+              12.395318
+            ],
+            [
+              -1.500291,
+              12.399904
+            ],
+            [
+              -1.49878,
+              12.405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 15,
+        "name": "Kilwin",
+        "nom": "Kilwin",
+        "arrondissement": 3,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.48865,
+              12.378
+            ],
+            [
+              -1.489131,
+              12.382655
+            ],
+            [
+              -1.494075,
+              12.38418
+            ],
+            [
+              -1.498,
+              12.387985
+            ],
+            [
+              -1.502051,
+              12.384378
+            ],
+            [
+              -1.506503,
+              12.382463
+            ],
+            [
+              -1.507811,
+              12.378
+            ],
+            [
+              -1.50502,
+              12.374315
+            ],
+            [
+              -1.503491,
+              12.369354
+            ],
+            [
+              -1.498,
+              12.370867
+            ],
+            [
+              -1.492876,
+              12.369932
+            ],
+            [
+              -1.489909,
+              12.373753
+            ],
+            [
+              -1.48865,
+              12.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 16,
+        "name": "Rimkiéta",
+        "nom": "Rimkiéta",
+        "arrondissement": 3,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.50878,
+              12.395
+            ],
+            [
+              -1.509357,
+              12.400586
+            ],
+            [
+              -1.51529,
+              12.402416
+            ],
+            [
+              -1.52,
+              12.406982
+            ],
+            [
+              -1.524861,
+              12.402654
+            ],
+            [
+              -1.530203,
+              12.400355
+            ],
+            [
+              -1.531773,
+              12.395
+            ],
+            [
+              -1.528424,
+              12.390579
+            ],
+            [
+              -1.526589,
+              12.384624
+            ],
+            [
+              -1.52,
+              12.38644
+            ],
+            [
+              -1.513851,
+              12.385318
+            ],
+            [
+              -1.510291,
+              12.389904
+            ],
+            [
+              -1.50878,
+              12.395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 17,
+        "name": "Sig-Noghin",
+        "nom": "Sig-Noghin",
+        "arrondissement": 4,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.48378,
+              12.37
+            ],
+            [
+              -1.484357,
+              12.375586
+            ],
+            [
+              -1.49029,
+              12.377416
+            ],
+            [
+              -1.495,
+              12.381982
+            ],
+            [
+              -1.499861,
+              12.377654
+            ],
+            [
+              -1.505203,
+              12.375355
+            ],
+            [
+              -1.506773,
+              12.37
+            ],
+            [
+              -1.503424,
+              12.365579
+            ],
+            [
+              -1.501589,
+              12.359624
+            ],
+            [
+              -1.495,
+              12.36144
+            ],
+            [
+              -1.488851,
+              12.360318
+            ],
+            [
+              -1.485291,
+              12.364904
+            ],
+            [
+              -1.48378,
+              12.37
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 18,
+        "name": "Bilbalogho",
+        "nom": "Bilbalogho",
+        "arrondissement": 4,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.49378,
+              12.358
+            ],
+            [
+              -1.494357,
+              12.363586
+            ],
+            [
+              -1.50029,
+              12.365416
+            ],
+            [
+              -1.505,
+              12.369982
+            ],
+            [
+              -1.509861,
+              12.365654
+            ],
+            [
+              -1.515203,
+              12.363355
+            ],
+            [
+              -1.516773,
+              12.358
+            ],
+            [
+              -1.513424,
+              12.353579
+            ],
+            [
+              -1.511589,
+              12.347624
+            ],
+            [
+              -1.505,
+              12.34944
+            ],
+            [
+              -1.498851,
+              12.348318
+            ],
+            [
+              -1.495291,
+              12.352904
+            ],
+            [
+              -1.49378,
+              12.358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 19,
+        "name": "Gounghin",
+        "nom": "Gounghin",
+        "arrondissement": 4,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.50378,
+              12.355
+            ],
+            [
+              -1.504357,
+              12.360586
+            ],
+            [
+              -1.51029,
+              12.362416
+            ],
+            [
+              -1.515,
+              12.366982
+            ],
+            [
+              -1.519861,
+              12.362654
+            ],
+            [
+              -1.525203,
+              12.360355
+            ],
+            [
+              -1.526773,
+              12.355
+            ],
+            [
+              -1.523424,
+              12.350579
+            ],
+            [
+              -1.521589,
+              12.344624
+            ],
+            [
+              -1.515,
+              12.34644
+            ],
+            [
+              -1.508851,
+              12.345318
+            ],
+            [
+              -1.505291,
+              12.349904
+            ],
+            [
+              -1.50378,
+              12.355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 20,
+        "name": "Cissin",
+        "nom": "Cissin",
+        "arrondissement": 4,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.48878,
+              12.345
+            ],
+            [
+              -1.489357,
+              12.350586
+            ],
+            [
+              -1.49529,
+              12.352416
+            ],
+            [
+              -1.5,
+              12.356982
+            ],
+            [
+              -1.504861,
+              12.352654
+            ],
+            [
+              -1.510203,
+              12.350355
+            ],
+            [
+              -1.511773,
+              12.345
+            ],
+            [
+              -1.508424,
+              12.340579
+            ],
+            [
+              -1.506589,
+              12.334624
+            ],
+            [
+              -1.5,
+              12.33644
+            ],
+            [
+              -1.493851,
+              12.335318
+            ],
+            [
+              -1.490291,
+              12.339904
+            ],
+            [
+              -1.48878,
+              12.345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 21,
+        "name": "Tampouy",
+        "nom": "Tampouy",
+        "arrondissement": 4,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.48065,
+              12.36
+            ],
+            [
+              -1.481131,
+              12.364655
+            ],
+            [
+              -1.486075,
+              12.36618
+            ],
+            [
+              -1.49,
+              12.369985
+            ],
+            [
+              -1.494051,
+              12.366378
+            ],
+            [
+              -1.498503,
+              12.364463
+            ],
+            [
+              -1.499811,
+              12.36
+            ],
+            [
+              -1.49702,
+              12.356315
+            ],
+            [
+              -1.495491,
+              12.351354
+            ],
+            [
+              -1.49,
+              12.352867
+            ],
+            [
+              -1.484876,
+              12.351932
+            ],
+            [
+              -1.481909,
+              12.355753
+            ],
+            [
+              -1.48065,
+              12.36
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 22,
+        "name": "Wemtenga",
+        "nom": "Wemtenga",
+        "arrondissement": 5,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.50878,
+              12.345
+            ],
+            [
+              -1.509357,
+              12.350586
+            ],
+            [
+              -1.51529,
+              12.352416
+            ],
+            [
+              -1.52,
+              12.356982
+            ],
+            [
+              -1.524861,
+              12.352654
+            ],
+            [
+              -1.530203,
+              12.350355
+            ],
+            [
+              -1.531773,
+              12.345
+            ],
+            [
+              -1.528424,
+              12.340579
+            ],
+            [
+              -1.526589,
+              12.334624
+            ],
+            [
+              -1.52,
+              12.33644
+            ],
+            [
+              -1.513851,
+              12.335318
+            ],
+            [
+              -1.510291,
+              12.339904
+            ],
+            [
+              -1.50878,
+              12.345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 23,
+        "name": "Dagnoin",
+        "nom": "Dagnoin",
+        "arrondissement": 5,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.52378,
+              12.34
+            ],
+            [
+              -1.524357,
+              12.345586
+            ],
+            [
+              -1.53029,
+              12.347416
+            ],
+            [
+              -1.535,
+              12.351982
+            ],
+            [
+              -1.539861,
+              12.347654
+            ],
+            [
+              -1.545203,
+              12.345355
+            ],
+            [
+              -1.546773,
+              12.34
+            ],
+            [
+              -1.543424,
+              12.335579
+            ],
+            [
+              -1.541589,
+              12.329624
+            ],
+            [
+              -1.535,
+              12.33144
+            ],
+            [
+              -1.528851,
+              12.330318
+            ],
+            [
+              -1.525291,
+              12.334904
+            ],
+            [
+              -1.52378,
+              12.34
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 24,
+        "name": "Toeyibin",
+        "nom": "Toeyibin",
+        "arrondissement": 5,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53865,
+              12.348
+            ],
+            [
+              -1.539131,
+              12.352655
+            ],
+            [
+              -1.544075,
+              12.35418
+            ],
+            [
+              -1.548,
+              12.357985
+            ],
+            [
+              -1.552051,
+              12.354378
+            ],
+            [
+              -1.556503,
+              12.352463
+            ],
+            [
+              -1.557811,
+              12.348
+            ],
+            [
+              -1.55502,
+              12.344315
+            ],
+            [
+              -1.553491,
+              12.339354
+            ],
+            [
+              -1.548,
+              12.340867
+            ],
+            [
+              -1.542876,
+              12.339932
+            ],
+            [
+              -1.539909,
+              12.343753
+            ],
+            [
+              -1.53865,
+              12.348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 25,
+        "name": "Pagalayiri",
+        "nom": "Pagalayiri",
+        "arrondissement": 5,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.54678,
+              12.34
+            ],
+            [
+              -1.547357,
+              12.345586
+            ],
+            [
+              -1.55329,
+              12.347416
+            ],
+            [
+              -1.558,
+              12.351982
+            ],
+            [
+              -1.562861,
+              12.347654
+            ],
+            [
+              -1.568203,
+              12.345355
+            ],
+            [
+              -1.569773,
+              12.34
+            ],
+            [
+              -1.566424,
+              12.335579
+            ],
+            [
+              -1.564589,
+              12.329624
+            ],
+            [
+              -1.558,
+              12.33144
+            ],
+            [
+              -1.551851,
+              12.330318
+            ],
+            [
+              -1.548291,
+              12.334904
+            ],
+            [
+              -1.54678,
+              12.34
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 26,
+        "name": "Kalgondin",
+        "nom": "Kalgondin",
+        "arrondissement": 5,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.49678,
+              12.335
+            ],
+            [
+              -1.497357,
+              12.340586
+            ],
+            [
+              -1.50329,
+              12.342416
+            ],
+            [
+              -1.508,
+              12.346982
+            ],
+            [
+              -1.512861,
+              12.342654
+            ],
+            [
+              -1.518203,
+              12.340355
+            ],
+            [
+              -1.519773,
+              12.335
+            ],
+            [
+              -1.516424,
+              12.330579
+            ],
+            [
+              -1.514589,
+              12.324624
+            ],
+            [
+              -1.508,
+              12.32644
+            ],
+            [
+              -1.501851,
+              12.325318
+            ],
+            [
+              -1.498291,
+              12.329904
+            ],
+            [
+              -1.49678,
+              12.335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 27,
+        "name": "Saint Léon",
+        "nom": "Saint Léon",
+        "arrondissement": 6,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.52265,
+              12.38
+            ],
+            [
+              -1.523131,
+              12.384655
+            ],
+            [
+              -1.528075,
+              12.38618
+            ],
+            [
+              -1.532,
+              12.389985
+            ],
+            [
+              -1.536051,
+              12.386378
+            ],
+            [
+              -1.540503,
+              12.384463
+            ],
+            [
+              -1.541811,
+              12.38
+            ],
+            [
+              -1.53902,
+              12.376315
+            ],
+            [
+              -1.537491,
+              12.371354
+            ],
+            [
+              -1.532,
+              12.372867
+            ],
+            [
+              -1.526876,
+              12.371932
+            ],
+            [
+              -1.523909,
+              12.375753
+            ],
+            [
+              -1.52265,
+              12.38
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 28,
+        "name": "Zogona",
+        "nom": "Zogona",
+        "arrondissement": 6,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.49878,
+              12.388
+            ],
+            [
+              -1.499357,
+              12.393586
+            ],
+            [
+              -1.50529,
+              12.395416
+            ],
+            [
+              -1.51,
+              12.399982
+            ],
+            [
+              -1.514861,
+              12.395654
+            ],
+            [
+              -1.520203,
+              12.393355
+            ],
+            [
+              -1.521773,
+              12.388
+            ],
+            [
+              -1.518424,
+              12.383579
+            ],
+            [
+              -1.516589,
+              12.377624
+            ],
+            [
+              -1.51,
+              12.37944
+            ],
+            [
+              -1.503851,
+              12.378318
+            ],
+            [
+              -1.500291,
+              12.382904
+            ],
+            [
+              -1.49878,
+              12.388
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 29,
+        "name": "Zone du Bois",
+        "nom": "Zone du Bois",
+        "arrondissement": 6,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53378,
+              12.385
+            ],
+            [
+              -1.534357,
+              12.390586
+            ],
+            [
+              -1.54029,
+              12.392416
+            ],
+            [
+              -1.545,
+              12.396982
+            ],
+            [
+              -1.549861,
+              12.392654
+            ],
+            [
+              -1.555203,
+              12.390355
+            ],
+            [
+              -1.556773,
+              12.385
+            ],
+            [
+              -1.553424,
+              12.380579
+            ],
+            [
+              -1.551589,
+              12.374624
+            ],
+            [
+              -1.545,
+              12.37644
+            ],
+            [
+              -1.538851,
+              12.375318
+            ],
+            [
+              -1.535291,
+              12.379904
+            ],
+            [
+              -1.53378,
+              12.385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 30,
+        "name": "1200 Logements",
+        "nom": "1200 Logements",
+        "arrondissement": 6,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "OSM-réel",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie",
+        "osm_id": "way/153976450"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4974387,
+              12.3557519
+            ],
+            [
+              -1.4952938,
+              12.3588579
+            ],
+            [
+              -1.4942799,
+              12.3604405
+            ],
+            [
+              -1.4942423,
+              12.3610221
+            ],
+            [
+              -1.4941297,
+              12.3650514
+            ],
+            [
+              -1.4938293,
+              12.3735138
+            ],
+            [
+              -1.4937684,
+              12.3758062
+            ],
+            [
+              -1.4937649,
+              12.3759399
+            ],
+            [
+              -1.4965882,
+              12.3760127
+            ],
+            [
+              -1.4967356,
+              12.3759984
+            ],
+            [
+              -1.4967492,
+              12.3759971
+            ],
+            [
+              -1.4968705,
+              12.3755027
+            ],
+            [
+              -1.4971423,
+              12.3743944
+            ],
+            [
+              -1.5007722,
+              12.3744637
+            ],
+            [
+              -1.5006821,
+              12.3735375
+            ],
+            [
+              -1.5006257,
+              12.3729584
+            ],
+            [
+              -1.5005538,
+              12.3722765
+            ],
+            [
+              -1.5003931,
+              12.3707522
+            ],
+            [
+              -1.5003752,
+              12.3705834
+            ],
+            [
+              -1.5002897,
+              12.3697721
+            ],
+            [
+              -1.50028,
+              12.3691702
+            ],
+            [
+              -1.5002787,
+              12.3690925
+            ],
+            [
+              -1.5002779,
+              12.3690386
+            ],
+            [
+              -1.5002757,
+              12.3689035
+            ],
+            [
+              -1.5002717,
+              12.3686565
+            ],
+            [
+              -1.5002762,
+              12.3684677
+            ],
+            [
+              -1.5002818,
+              12.3682377
+            ],
+            [
+              -1.5003682,
+              12.3646375
+            ],
+            [
+              -1.5001671,
+              12.3625022
+            ],
+            [
+              -1.5000854,
+              12.362085
+            ],
+            [
+              -1.4996161,
+              12.3609112
+            ],
+            [
+              -1.4974387,
+              12.3557519
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 31,
+        "name": "Somgandé",
+        "nom": "Somgandé",
+        "arrondissement": 7,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.543975,
+              12.398
+            ],
+            [
+              -1.544696,
+              12.404983
+            ],
+            [
+              -1.552113,
+              12.40727
+            ],
+            [
+              -1.558,
+              12.412977
+            ],
+            [
+              -1.564076,
+              12.407567
+            ],
+            [
+              -1.570754,
+              12.404694
+            ],
+            [
+              -1.572717,
+              12.398
+            ],
+            [
+              -1.56853,
+              12.392473
+            ],
+            [
+              -1.566237,
+              12.38503
+            ],
+            [
+              -1.558,
+              12.3873
+            ],
+            [
+              -1.550314,
+              12.385898
+            ],
+            [
+              -1.545863,
+              12.39163
+            ],
+            [
+              -1.543975,
+              12.398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 32,
+        "name": "Larlé",
+        "nom": "Larlé",
+        "arrondissement": 7,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.52878,
+              12.395
+            ],
+            [
+              -1.529357,
+              12.400586
+            ],
+            [
+              -1.53529,
+              12.402416
+            ],
+            [
+              -1.54,
+              12.406982
+            ],
+            [
+              -1.544861,
+              12.402654
+            ],
+            [
+              -1.550203,
+              12.400355
+            ],
+            [
+              -1.551773,
+              12.395
+            ],
+            [
+              -1.548424,
+              12.390579
+            ],
+            [
+              -1.546589,
+              12.384624
+            ],
+            [
+              -1.54,
+              12.38644
+            ],
+            [
+              -1.533851,
+              12.385318
+            ],
+            [
+              -1.530291,
+              12.389904
+            ],
+            [
+              -1.52878,
+              12.395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 33,
+        "name": "Yaoghin",
+        "nom": "Yaoghin",
+        "arrondissement": 7,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53678,
+              12.408
+            ],
+            [
+              -1.537357,
+              12.413586
+            ],
+            [
+              -1.54329,
+              12.415416
+            ],
+            [
+              -1.548,
+              12.419982
+            ],
+            [
+              -1.552861,
+              12.415654
+            ],
+            [
+              -1.558203,
+              12.413355
+            ],
+            [
+              -1.559773,
+              12.408
+            ],
+            [
+              -1.556424,
+              12.403579
+            ],
+            [
+              -1.554589,
+              12.397624
+            ],
+            [
+              -1.548,
+              12.39944
+            ],
+            [
+              -1.541851,
+              12.398318
+            ],
+            [
+              -1.538291,
+              12.402904
+            ],
+            [
+              -1.53678,
+              12.408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 34,
+        "name": "Kolog-Naba",
+        "nom": "Kolog-Naba",
+        "arrondissement": 7,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55678,
+              12.388
+            ],
+            [
+              -1.557357,
+              12.393586
+            ],
+            [
+              -1.56329,
+              12.395416
+            ],
+            [
+              -1.568,
+              12.399982
+            ],
+            [
+              -1.572861,
+              12.395654
+            ],
+            [
+              -1.578203,
+              12.393355
+            ],
+            [
+              -1.579773,
+              12.388
+            ],
+            [
+              -1.576424,
+              12.383579
+            ],
+            [
+              -1.574589,
+              12.377624
+            ],
+            [
+              -1.568,
+              12.37944
+            ],
+            [
+              -1.561851,
+              12.378318
+            ],
+            [
+              -1.558291,
+              12.382904
+            ],
+            [
+              -1.55678,
+              12.388
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 35,
+        "name": "Silmissin",
+        "nom": "Silmissin",
+        "arrondissement": 8,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.46878,
+              12.355
+            ],
+            [
+              -1.469357,
+              12.360586
+            ],
+            [
+              -1.47529,
+              12.362416
+            ],
+            [
+              -1.48,
+              12.366982
+            ],
+            [
+              -1.484861,
+              12.362654
+            ],
+            [
+              -1.490203,
+              12.360355
+            ],
+            [
+              -1.491773,
+              12.355
+            ],
+            [
+              -1.488424,
+              12.350579
+            ],
+            [
+              -1.486589,
+              12.344624
+            ],
+            [
+              -1.48,
+              12.34644
+            ],
+            [
+              -1.473851,
+              12.345318
+            ],
+            [
+              -1.470291,
+              12.349904
+            ],
+            [
+              -1.46878,
+              12.355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 36,
+        "name": "Ouaga 2000",
+        "nom": "Ouaga 2000",
+        "arrondissement": 8,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.54317,
+              12.325
+            ],
+            [
+              -1.544035,
+              12.333379
+            ],
+            [
+              -1.552935,
+              12.336124
+            ],
+            [
+              -1.56,
+              12.342973
+            ],
+            [
+              -1.567291,
+              12.336481
+            ],
+            [
+              -1.575305,
+              12.333033
+            ],
+            [
+              -1.57766,
+              12.325
+            ],
+            [
+              -1.572636,
+              12.318368
+            ],
+            [
+              -1.569884,
+              12.309436
+            ],
+            [
+              -1.56,
+              12.31216
+            ],
+            [
+              -1.550777,
+              12.310478
+            ],
+            [
+              -1.545436,
+              12.317356
+            ],
+            [
+              -1.54317,
+              12.325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 37,
+        "name": "Kossodo",
+        "nom": "Kossodo",
+        "arrondissement": 8,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.480975,
+              12.4
+            ],
+            [
+              -1.481696,
+              12.406983
+            ],
+            [
+              -1.489113,
+              12.40927
+            ],
+            [
+              -1.495,
+              12.414977
+            ],
+            [
+              -1.501076,
+              12.409567
+            ],
+            [
+              -1.507754,
+              12.406694
+            ],
+            [
+              -1.509717,
+              12.4
+            ],
+            [
+              -1.50553,
+              12.394473
+            ],
+            [
+              -1.503237,
+              12.38703
+            ],
+            [
+              -1.495,
+              12.3893
+            ],
+            [
+              -1.487314,
+              12.387898
+            ],
+            [
+              -1.482863,
+              12.39363
+            ],
+            [
+              -1.480975,
+              12.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 38,
+        "name": "Toécin",
+        "nom": "Toécin",
+        "arrondissement": 8,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.49365,
+              12.348
+            ],
+            [
+              -1.494131,
+              12.352655
+            ],
+            [
+              -1.499075,
+              12.35418
+            ],
+            [
+              -1.503,
+              12.357985
+            ],
+            [
+              -1.507051,
+              12.354378
+            ],
+            [
+              -1.511503,
+              12.352463
+            ],
+            [
+              -1.512811,
+              12.348
+            ],
+            [
+              -1.51002,
+              12.344315
+            ],
+            [
+              -1.508491,
+              12.339354
+            ],
+            [
+              -1.503,
+              12.340867
+            ],
+            [
+              -1.497876,
+              12.339932
+            ],
+            [
+              -1.494909,
+              12.343753
+            ],
+            [
+              -1.49365,
+              12.348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 39,
+        "name": "Pissy",
+        "nom": "Pissy",
+        "arrondissement": 9,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.575975,
+              12.355
+            ],
+            [
+              -1.576696,
+              12.361983
+            ],
+            [
+              -1.584113,
+              12.36427
+            ],
+            [
+              -1.59,
+              12.369977
+            ],
+            [
+              -1.596076,
+              12.364567
+            ],
+            [
+              -1.602754,
+              12.361694
+            ],
+            [
+              -1.604717,
+              12.355
+            ],
+            [
+              -1.60053,
+              12.349473
+            ],
+            [
+              -1.598237,
+              12.34203
+            ],
+            [
+              -1.59,
+              12.3443
+            ],
+            [
+              -1.582314,
+              12.342898
+            ],
+            [
+              -1.577863,
+              12.34863
+            ],
+            [
+              -1.575975,
+              12.355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 40,
+        "name": "Rayongo",
+        "nom": "Rayongo",
+        "arrondissement": 9,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.56678,
+              12.342
+            ],
+            [
+              -1.567357,
+              12.347586
+            ],
+            [
+              -1.57329,
+              12.349416
+            ],
+            [
+              -1.578,
+              12.353982
+            ],
+            [
+              -1.582861,
+              12.349654
+            ],
+            [
+              -1.588203,
+              12.347355
+            ],
+            [
+              -1.589773,
+              12.342
+            ],
+            [
+              -1.586424,
+              12.337579
+            ],
+            [
+              -1.584589,
+              12.331624
+            ],
+            [
+              -1.578,
+              12.33344
+            ],
+            [
+              -1.571851,
+              12.332318
+            ],
+            [
+              -1.568291,
+              12.336904
+            ],
+            [
+              -1.56678,
+              12.342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 41,
+        "name": "Karpala",
+        "nom": "Karpala",
+        "arrondissement": 9,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "OSM-réel",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie",
+        "osm_id": "way/27863585"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.4881176,
+              12.3272934
+            ],
+            [
+              -1.4879337,
+              12.3270003
+            ],
+            [
+              -1.4875373,
+              12.3267504
+            ],
+            [
+              -1.4871434,
+              12.3266597
+            ],
+            [
+              -1.4809703,
+              12.3226446
+            ],
+            [
+              -1.4763932,
+              12.3294948
+            ],
+            [
+              -1.4708265,
+              12.337811
+            ],
+            [
+              -1.4731797,
+              12.339153
+            ],
+            [
+              -1.4743554,
+              12.3374268
+            ],
+            [
+              -1.4747795,
+              12.3377045
+            ],
+            [
+              -1.4756398,
+              12.3364322
+            ],
+            [
+              -1.4806585,
+              12.3396864
+            ],
+            [
+              -1.4804837,
+              12.3399851
+            ],
+            [
+              -1.4828329,
+              12.3400361
+            ],
+            [
+              -1.4841735,
+              12.3380746
+            ],
+            [
+              -1.4833099,
+              12.3375205
+            ],
+            [
+              -1.4824998,
+              12.3386786
+            ],
+            [
+              -1.4820278,
+              12.3383511
+            ],
+            [
+              -1.4822799,
+              12.337958
+            ],
+            [
+              -1.4818776,
+              12.3377117
+            ],
+            [
+              -1.4824086,
+              12.3369361
+            ],
+            [
+              -1.4827171,
+              12.3364304
+            ],
+            [
+              -1.4831328,
+              12.3366977
+            ],
+            [
+              -1.4836658,
+              12.3358761
+            ],
+            [
+              -1.4852035,
+              12.3368235
+            ],
+            [
+              -1.4843393,
+              12.338053
+            ],
+            [
+              -1.4865885,
+              12.3394676
+            ],
+            [
+              -1.4868436,
+              12.3391225
+            ],
+            [
+              -1.4876121,
+              12.3388411
+            ],
+            [
+              -1.4883551,
+              12.3377851
+            ],
+            [
+              -1.4890927,
+              12.3382672
+            ],
+            [
+              -1.4907155,
+              12.3376787
+            ],
+            [
+              -1.4912868,
+              12.3368683
+            ],
+            [
+              -1.4917227,
+              12.3362284
+            ],
+            [
+              -1.4918291,
+              12.336081
+            ],
+            [
+              -1.4918658,
+              12.3361064
+            ],
+            [
+              -1.4935824,
+              12.3335668
+            ],
+            [
+              -1.4942661,
+              12.3340351
+            ],
+            [
+              -1.495261,
+              12.3346678
+            ],
+            [
+              -1.4967072,
+              12.3356304
+            ],
+            [
+              -1.4971372,
+              12.335021
+            ],
+            [
+              -1.4976076,
+              12.3353051
+            ],
+            [
+              -1.4984164,
+              12.3340607
+            ],
+            [
+              -1.4949196,
+              12.3316937
+            ],
+            [
+              -1.4926792,
+              12.3302047
+            ],
+            [
+              -1.4881176,
+              12.3272934
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 42,
+        "name": "Tanghin",
+        "nom": "Tanghin",
+        "arrondissement": 9,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.55565,
+              12.36
+            ],
+            [
+              -1.556131,
+              12.364655
+            ],
+            [
+              -1.561075,
+              12.36618
+            ],
+            [
+              -1.565,
+              12.369985
+            ],
+            [
+              -1.569051,
+              12.366378
+            ],
+            [
+              -1.573503,
+              12.364463
+            ],
+            [
+              -1.574811,
+              12.36
+            ],
+            [
+              -1.57202,
+              12.356315
+            ],
+            [
+              -1.570491,
+              12.351354
+            ],
+            [
+              -1.565,
+              12.352867
+            ],
+            [
+              -1.559876,
+              12.351932
+            ],
+            [
+              -1.556909,
+              12.355753
+            ],
+            [
+              -1.55565,
+              12.36
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 43,
+        "name": "Wayalghin",
+        "nom": "Wayalghin",
+        "arrondissement": 10,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.51878,
+              12.41
+            ],
+            [
+              -1.519357,
+              12.415586
+            ],
+            [
+              -1.52529,
+              12.417416
+            ],
+            [
+              -1.53,
+              12.421982
+            ],
+            [
+              -1.534861,
+              12.417654
+            ],
+            [
+              -1.540203,
+              12.415355
+            ],
+            [
+              -1.541773,
+              12.41
+            ],
+            [
+              -1.538424,
+              12.405579
+            ],
+            [
+              -1.536589,
+              12.399624
+            ],
+            [
+              -1.53,
+              12.40144
+            ],
+            [
+              -1.523851,
+              12.400318
+            ],
+            [
+              -1.520291,
+              12.404904
+            ],
+            [
+              -1.51878,
+              12.41
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 44,
+        "name": "Saaba",
+        "nom": "Saaba",
+        "arrondissement": 10,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.443975,
+              12.378
+            ],
+            [
+              -1.444696,
+              12.384983
+            ],
+            [
+              -1.452113,
+              12.38727
+            ],
+            [
+              -1.458,
+              12.392977
+            ],
+            [
+              -1.464076,
+              12.387567
+            ],
+            [
+              -1.470754,
+              12.384694
+            ],
+            [
+              -1.472717,
+              12.378
+            ],
+            [
+              -1.46853,
+              12.372473
+            ],
+            [
+              -1.466237,
+              12.36503
+            ],
+            [
+              -1.458,
+              12.3673
+            ],
+            [
+              -1.450314,
+              12.365898
+            ],
+            [
+              -1.445863,
+              12.37163
+            ],
+            [
+              -1.443975,
+              12.378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 45,
+        "name": "Koubri",
+        "nom": "Koubri",
+        "arrondissement": 10,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.53378,
+              12.418
+            ],
+            [
+              -1.534357,
+              12.423586
+            ],
+            [
+              -1.54029,
+              12.425416
+            ],
+            [
+              -1.545,
+              12.429982
+            ],
+            [
+              -1.549861,
+              12.425654
+            ],
+            [
+              -1.555203,
+              12.423355
+            ],
+            [
+              -1.556773,
+              12.418
+            ],
+            [
+              -1.553424,
+              12.413579
+            ],
+            [
+              -1.551589,
+              12.407624
+            ],
+            [
+              -1.545,
+              12.40944
+            ],
+            [
+              -1.538851,
+              12.408318
+            ],
+            [
+              -1.535291,
+              12.412904
+            ],
+            [
+              -1.53378,
+              12.418
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 46,
+        "name": "Loumbila",
+        "nom": "Loumbila",
+        "arrondissement": 10,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.473975,
+              12.415
+            ],
+            [
+              -1.474696,
+              12.421983
+            ],
+            [
+              -1.482113,
+              12.42427
+            ],
+            [
+              -1.488,
+              12.429977
+            ],
+            [
+              -1.494076,
+              12.424567
+            ],
+            [
+              -1.500754,
+              12.421694
+            ],
+            [
+              -1.502717,
+              12.415
+            ],
+            [
+              -1.49853,
+              12.409473
+            ],
+            [
+              -1.496237,
+              12.40203
+            ],
+            [
+              -1.488,
+              12.4043
+            ],
+            [
+              -1.480314,
+              12.402898
+            ],
+            [
+              -1.475863,
+              12.40863
+            ],
+            [
+              -1.473975,
+              12.415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 47,
+        "name": "Ouaghin",
+        "nom": "Ouaghin",
+        "arrondissement": 11,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.453975,
+              12.342
+            ],
+            [
+              -1.454696,
+              12.348983
+            ],
+            [
+              -1.462113,
+              12.35127
+            ],
+            [
+              -1.468,
+              12.356977
+            ],
+            [
+              -1.474076,
+              12.351567
+            ],
+            [
+              -1.480754,
+              12.348694
+            ],
+            [
+              -1.482717,
+              12.342
+            ],
+            [
+              -1.47853,
+              12.336473
+            ],
+            [
+              -1.476237,
+              12.32903
+            ],
+            [
+              -1.468,
+              12.3313
+            ],
+            [
+              -1.460314,
+              12.329898
+            ],
+            [
+              -1.455863,
+              12.33563
+            ],
+            [
+              -1.453975,
+              12.342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 48,
+        "name": "Ziniaré Sud",
+        "nom": "Ziniaré Sud",
+        "arrondissement": 11,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.46678,
+              12.328
+            ],
+            [
+              -1.467357,
+              12.333586
+            ],
+            [
+              -1.47329,
+              12.335416
+            ],
+            [
+              -1.478,
+              12.339982
+            ],
+            [
+              -1.482861,
+              12.335654
+            ],
+            [
+              -1.488203,
+              12.333355
+            ],
+            [
+              -1.489773,
+              12.328
+            ],
+            [
+              -1.486424,
+              12.323579
+            ],
+            [
+              -1.484589,
+              12.317624
+            ],
+            [
+              -1.478,
+              12.31944
+            ],
+            [
+              -1.471851,
+              12.318318
+            ],
+            [
+              -1.468291,
+              12.322904
+            ],
+            [
+              -1.46678,
+              12.328
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 49,
+        "name": "Pabré",
+        "nom": "Pabré",
+        "arrondissement": 11,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.453975,
+              12.408
+            ],
+            [
+              -1.454696,
+              12.414983
+            ],
+            [
+              -1.462113,
+              12.41727
+            ],
+            [
+              -1.468,
+              12.422977
+            ],
+            [
+              -1.474076,
+              12.417567
+            ],
+            [
+              -1.480754,
+              12.414694
+            ],
+            [
+              -1.482717,
+              12.408
+            ],
+            [
+              -1.47853,
+              12.402473
+            ],
+            [
+              -1.476237,
+              12.39503
+            ],
+            [
+              -1.468,
+              12.3973
+            ],
+            [
+              -1.460314,
+              12.395898
+            ],
+            [
+              -1.455863,
+              12.40163
+            ],
+            [
+              -1.453975,
+              12.408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 50,
+        "name": "Kokologo",
+        "nom": "Kokologo",
+        "arrondissement": 11,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.580975,
+              12.318
+            ],
+            [
+              -1.581696,
+              12.324983
+            ],
+            [
+              -1.589113,
+              12.32727
+            ],
+            [
+              -1.595,
+              12.332977
+            ],
+            [
+              -1.601076,
+              12.327567
+            ],
+            [
+              -1.607754,
+              12.324694
+            ],
+            [
+              -1.609717,
+              12.318
+            ],
+            [
+              -1.60553,
+              12.312473
+            ],
+            [
+              -1.603237,
+              12.30503
+            ],
+            [
+              -1.595,
+              12.3073
+            ],
+            [
+              -1.587314,
+              12.305898
+            ],
+            [
+              -1.582863,
+              12.31163
+            ],
+            [
+              -1.580975,
+              12.318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 51,
+        "name": "Kombissiri Nord",
+        "nom": "Kombissiri Nord",
+        "arrondissement": 12,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.525975,
+              12.308
+            ],
+            [
+              -1.526696,
+              12.314983
+            ],
+            [
+              -1.534113,
+              12.31727
+            ],
+            [
+              -1.54,
+              12.322977
+            ],
+            [
+              -1.546076,
+              12.317567
+            ],
+            [
+              -1.552754,
+              12.314694
+            ],
+            [
+              -1.554717,
+              12.308
+            ],
+            [
+              -1.55053,
+              12.302473
+            ],
+            [
+              -1.548237,
+              12.29503
+            ],
+            [
+              -1.54,
+              12.2973
+            ],
+            [
+              -1.532314,
+              12.295898
+            ],
+            [
+              -1.527863,
+              12.30163
+            ],
+            [
+              -1.525975,
+              12.308
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 52,
+        "name": "Saponé Nord",
+        "nom": "Saponé Nord",
+        "arrondissement": 12,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.557975,
+              12.305
+            ],
+            [
+              -1.558696,
+              12.311983
+            ],
+            [
+              -1.566113,
+              12.31427
+            ],
+            [
+              -1.572,
+              12.319977
+            ],
+            [
+              -1.578076,
+              12.314567
+            ],
+            [
+              -1.584754,
+              12.311694
+            ],
+            [
+              -1.586717,
+              12.305
+            ],
+            [
+              -1.58253,
+              12.299473
+            ],
+            [
+              -1.580237,
+              12.29203
+            ],
+            [
+              -1.572,
+              12.2943
+            ],
+            [
+              -1.564314,
+              12.292898
+            ],
+            [
+              -1.559863,
+              12.29863
+            ],
+            [
+              -1.557975,
+              12.305
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 53,
+        "name": "Doulougou",
+        "nom": "Doulougou",
+        "arrondissement": 12,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.49078,
+              12.315
+            ],
+            [
+              -1.491357,
+              12.320586
+            ],
+            [
+              -1.49729,
+              12.322416
+            ],
+            [
+              -1.502,
+              12.326982
+            ],
+            [
+              -1.506861,
+              12.322654
+            ],
+            [
+              -1.512203,
+              12.320355
+            ],
+            [
+              -1.513773,
+              12.315
+            ],
+            [
+              -1.510424,
+              12.310579
+            ],
+            [
+              -1.508589,
+              12.304624
+            ],
+            [
+              -1.502,
+              12.30644
+            ],
+            [
+              -1.495851,
+              12.305318
+            ],
+            [
+              -1.492291,
+              12.309904
+            ],
+            [
+              -1.49078,
+              12.315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 54,
+        "name": "Bindougou",
+        "nom": "Bindougou",
+        "arrondissement": 12,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.50078,
+              12.3
+            ],
+            [
+              -1.501357,
+              12.305586
+            ],
+            [
+              -1.50729,
+              12.307416
+            ],
+            [
+              -1.512,
+              12.311982
+            ],
+            [
+              -1.516861,
+              12.307654
+            ],
+            [
+              -1.522203,
+              12.305355
+            ],
+            [
+              -1.523773,
+              12.3
+            ],
+            [
+              -1.520424,
+              12.295579
+            ],
+            [
+              -1.518589,
+              12.289624
+            ],
+            [
+              -1.512,
+              12.29144
+            ],
+            [
+              -1.505851,
+              12.290318
+            ],
+            [
+              -1.502291,
+              12.294904
+            ],
+            [
+              -1.50078,
+              12.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": 55,
+        "name": "Koubalgou",
+        "nom": "Koubalgou",
+        "arrondissement": 12,
+        "commune": "Ouagadougou",
+        "pays": "Burkina Faso",
+        "source": "INSD-synthétique",
+        "note": "Polygone approximatif — à affiner avec données OSM/mairie"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.47078,
+              12.295
+            ],
+            [
+              -1.471357,
+              12.300586
+            ],
+            [
+              -1.47729,
+              12.302416
+            ],
+            [
+              -1.482,
+              12.306982
+            ],
+            [
+              -1.486861,
+              12.302654
+            ],
+            [
+              -1.492203,
+              12.300355
+            ],
+            [
+              -1.493773,
+              12.295
+            ],
+            [
+              -1.490424,
+              12.290579
+            ],
+            [
+              -1.488589,
+              12.284624
+            ],
+            [
+              -1.482,
+              12.28644
+            ],
+            [
+              -1.475851,
+              12.285318
+            ],
+            [
+              -1.472291,
+              12.289904
+            ],
+            [
+              -1.47078,
+              12.295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": null,
+        "name": "Nonsin",
+        "nom": "Nonsin",
+        "arrondissement": null,
+        "commune": "Ouagadougou",
+        "source": "OSM-réel",
+        "osm_id": "way/27895577"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5560445,
+              12.3820199
+            ],
+            [
+              -1.557652,
+              12.3813524
+            ],
+            [
+              -1.5575856,
+              12.3811573
+            ],
+            [
+              -1.5576323,
+              12.3809112
+            ],
+            [
+              -1.5583708,
+              12.3805235
+            ],
+            [
+              -1.5593631,
+              12.3799262
+            ],
+            [
+              -1.5601994,
+              12.3796938
+            ],
+            [
+              -1.5635616,
+              12.3788098
+            ],
+            [
+              -1.563556,
+              12.3785613
+            ],
+            [
+              -1.563505,
+              12.3783524
+            ],
+            [
+              -1.5636176,
+              12.3782502
+            ],
+            [
+              -1.5634605,
+              12.3780335
+            ],
+            [
+              -1.564486,
+              12.3776958
+            ],
+            [
+              -1.5644538,
+              12.3765346
+            ],
+            [
+              -1.5646693,
+              12.3765157
+            ],
+            [
+              -1.5647427,
+              12.3776375
+            ],
+            [
+              -1.564949,
+              12.3776014
+            ],
+            [
+              -1.5649833,
+              12.3776982
+            ],
+            [
+              -1.5651216,
+              12.3777003
+            ],
+            [
+              -1.5651327,
+              12.3777476
+            ],
+            [
+              -1.5653113,
+              12.3777558
+            ],
+            [
+              -1.5653048,
+              12.378053
+            ],
+            [
+              -1.5655956,
+              12.3781404
+            ],
+            [
+              -1.5656284,
+              12.3778729
+            ],
+            [
+              -1.5658954,
+              12.3779033
+            ],
+            [
+              -1.5659044,
+              12.377792
+            ],
+            [
+              -1.5661113,
+              12.377729
+            ],
+            [
+              -1.5662178,
+              12.3776853
+            ],
+            [
+              -1.5662741,
+              12.3778288
+            ],
+            [
+              -1.566353,
+              12.3777998
+            ],
+            [
+              -1.5664306,
+              12.3779324
+            ],
+            [
+              -1.5666728,
+              12.3778615
+            ],
+            [
+              -1.5668623,
+              12.3778771
+            ],
+            [
+              -1.5669035,
+              12.3776258
+            ],
+            [
+              -1.5672374,
+              12.3776196
+            ],
+            [
+              -1.5674097,
+              12.3775735
+            ],
+            [
+              -1.5673904,
+              12.3774886
+            ],
+            [
+              -1.5672313,
+              12.3775189
+            ],
+            [
+              -1.5672278,
+              12.3774619
+            ],
+            [
+              -1.5673257,
+              12.3770895
+            ],
+            [
+              -1.5674748,
+              12.3770513
+            ],
+            [
+              -1.5675144,
+              12.3772026
+            ],
+            [
+              -1.5681166,
+              12.3771002
+            ],
+            [
+              -1.5680684,
+              12.3769096
+            ],
+            [
+              -1.5685623,
+              12.376784
+            ],
+            [
+              -1.5685934,
+              12.3769034
+            ],
+            [
+              -1.5687714,
+              12.3768681
+            ],
+            [
+              -1.5692526,
+              12.3769319
+            ],
+            [
+              -1.569301,
+              12.3768246
+            ],
+            [
+              -1.5693865,
+              12.3768087
+            ],
+            [
+              -1.5690848,
+              12.3749549
+            ],
+            [
+              -1.568858,
+              12.3734816
+            ],
+            [
+              -1.568679,
+              12.3728624
+            ],
+            [
+              -1.5684891,
+              12.372422
+            ],
+            [
+              -1.568236,
+              12.37196
+            ],
+            [
+              -1.5679963,
+              12.3716175
+            ],
+            [
+              -1.5674847,
+              12.3710642
+            ],
+            [
+              -1.56683,
+              12.3705694
+            ],
+            [
+              -1.566256,
+              12.3702263
+            ],
+            [
+              -1.5656014,
+              12.3699953
+            ],
+            [
+              -1.5649477,
+              12.369864
+            ],
+            [
+              -1.5637673,
+              12.3699351
+            ],
+            [
+              -1.5614984,
+              12.3700614
+            ],
+            [
+              -1.5587623,
+              12.3706204
+            ],
+            [
+              -1.5584113,
+              12.3716148
+            ],
+            [
+              -1.5559882,
+              12.3816961
+            ],
+            [
+              -1.5560445,
+              12.3820199
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "secteur": null,
+        "name": "Nemnin",
+        "nom": "Nemnin",
+        "arrondissement": null,
+        "commune": "Ouagadougou",
+        "source": "OSM-réel",
+        "osm_id": "way/27895692"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5347297,
+              12.3842437
+            ],
+            [
+              -1.5346318,
+              12.3836468
+            ],
+            [
+              -1.5351521,
+              12.383454
+            ],
+            [
+              -1.5348399,
+              12.3816023
+            ],
+            [
+              -1.5351843,
+              12.377246
+            ],
+            [
+              -1.534085,
+              12.3775118
+            ],
+            [
+              -1.5339177,
+              12.3775522
+            ],
+            [
+              -1.5338887,
+              12.3775592
+            ],
+            [
+              -1.5262681,
+              12.3794016
+            ],
+            [
+              -1.5279365,
+              12.3860067
+            ],
+            [
+              -1.5315199,
+              12.3852412
+            ],
+            [
+              -1.5319828,
+              12.3850054
+            ],
+            [
+              -1.5320488,
+              12.3844333
+            ],
+            [
+              -1.5330203,
+              12.3842027
+            ],
+            [
+              -1.5331652,
+              12.3843211
+            ],
+            [
+              -1.5337193,
+              12.3841991
+            ],
+            [
+              -1.5336887,
+              12.3839303
+            ],
+            [
+              -1.5340068,
+              12.3838868
+            ],
+            [
+              -1.5341957,
+              12.3842777
+            ],
+            [
+              -1.5347297,
+              12.3842437
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

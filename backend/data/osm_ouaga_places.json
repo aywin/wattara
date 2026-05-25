@@ -1,0 +1,1111 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-13T21:59:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 27565002,
+  "lat": 12.3681873,
+  "lon": -1.5270944,
+  "tags": {
+    "admin_level": "2",
+    "alt_name:ckb": "ئۆواگادوگو؛ ئۆواگادۆگۆ؛ واگودوگو؛ واگادۆگۆ",
+    "alt_name:de": "Wagadugu",
+    "alt_name:gl": "Ouagadougou",
+    "capital": "yes",
+    "int_name": "Ouagadougou",
+    "name": "Ouagadougou",
+    "name:af": "Ouagadougou",
+    "name:am": "ዋጋዱጉ",
+    "name:an": "Ouagadougou",
+    "name:ar": "واغادوغو",
+    "name:az": "Uaqaduqu",
+    "name:be": "Уагадугу",
+    "name:be-tarask": "Уагадугу",
+    "name:bg": "Уагадугу",
+    "name:bm": "Wagadugu",
+    "name:bn": "ওয়াগাদুগু",
+    "name:bo": "ཨོ་འ་ག་དོའུ་གོའུ།",
+    "name:br": "Ouagadougou",
+    "name:bs": "Ouagadougou",
+    "name:ca": "Ouagadougou",
+    "name:ce": "Уагадугу",
+    "name:ceb": "Ouagadougou",
+    "name:ckb": "ئۆئاگادۆگۆ",
+    "name:cs": "Ouagadougou",
+    "name:cv": "Уагадугу",
+    "name:cy": "Ouagadougou",
+    "name:da": "Ouagadougou",
+    "name:de": "Ouagadougou",
+    "name:el": "Ουαγκαντουγκού",
+    "name:en": "Ouagadougou",
+    "name:eo": "Uagaduguo",
+    "name:es": "Uagadugú",
+    "name:et": "Ouagadougou",
+    "name:eu": "Uagadugu",
+    "name:fa": "اوآگادوگو",
+    "name:fi": "Ouagadougou",
+    "name:fr": "Ouagadougou",
+    "name:frp": "Ouagadougou",
+    "name:fy": "Ouagadougou",
+    "name:ga": "Ouagadougou",
+    "name:gd": "Ouagadougou",
+    "name:gl": "Uagadugú",
+    "name:he": "ואגאדוגו",
+    "name:hi": "ऊगादोगो",
+    "name:hif": "Ouagadougou",
+    "name:hr": "Ouagadougou",
+    "name:hsb": "Ouagadougou",
+    "name:ht": "Ouagadougou",
+    "name:hu": "Ouagadougou",
+    "name:hy": "Ուագադուգու",
+    "name:is": "Ouagadougou",
+    "name:it": "Ouagadougou",
+    "name:ja": "ワガドゥグー",
+    "name:jv": "Ouagadougou",
+    "name:ka": "უაგადუგუ",
+    "name:kab": "Wagadugu",
+    "name:kg": "Uagadugu",
+    "name:kk": "Уагадугу",
+    "name:ko": "와가두구",
+    "name:kw": "Ouagadougou",
+    "name:ky": "Уагадугу",
+    "name:la": "Uagadugum",
+    "name:lb": "Ouagadougou",
+    "name:lij": "Ouagadougou",
+    "name:lmo": "Ouagadougou",
+    "name:lt": "Uagadugu",
+    "name:lv": "Vagadugu",
+    "name:mg": "Ouagadougou",
+    "name:mk": "Уагадугу",
+    "name:ml": "വഗദുഗു",
+    "name:mr": "वागाडुगू",
+    "name:mrj": "Уагадугу",
+    "name:ms": "Ouagadougou",
+    "name:na": "Ouagadougou",
+    "name:nah": "Huagadugu",
+    "name:nan": "Ouagadougou",
+    "name:nb": "Ouagadougou",
+    "name:ne": "वागादुगु",
+    "name:nl": "Ouagadougou",
+    "name:nn": "Ouagadougou",
+    "name:nov": "Uagadugu",
+    "name:oc": "Ouagadougou",
+    "name:os": "Уагадугу",
+    "name:pa": "ਵਾਗਾਦੁਗੂ",
+    "name:pl": "Wagadugu",
+    "name:pms": "Ouagadougou",
+    "name:pnb": "اوگاڈوگو",
+    "name:ps": "واګادوګو",
+    "name:pt": "Ouagadougou",
+    "name:ro": "Ouagadougou",
+    "name:ru": "Уагадугу",
+    "name:rw": "Wagadugu",
+    "name:scn": "Ouagadougou",
+    "name:sco": "Ouagadougou",
+    "name:sd": "واگادوگو",
+    "name:sh": "Ouagadougou",
+    "name:sk": "Ouagadougou",
+    "name:sl": "Ouagadougou",
+    "name:sn": "Ouagadougou",
+    "name:so": "Ougadougou",
+    "name:sq": "Ouagadougou",
+    "name:sr": "Уагадугу",
+    "name:sv": "Ouagadougou",
+    "name:sw": "Wagadugu",
+    "name:ta": "வாகடூகு",
+    "name:tg": "Уагадугу",
+    "name:th": "วากาดูกู",
+    "name:tl": "Ouagadougou",
+    "name:tr": "Vagadugu",
+    "name:udm": "Уагадугу",
+    "name:uk": "Уагадугу",
+    "name:ur": "اواگادوگو",
+    "name:uz": "Uagadugu",
+    "name:vec": "Ouagadougou",
+    "name:vep": "Uagadugu",
+    "name:vi": "Ouagadougou",
+    "name:vo": "Ouagadougou",
+    "name:wal": "Ogaadegu",
+    "name:war": "Ouagadougou",
+    "name:yi": "וואגאדוגו",
+    "name:yo": "Ouagadougou",
+    "name:zh": "瓦加杜古",
+    "name:zh-Hant": "烏格都古",
+    "old_name": "Wagadugu",
+    "place": "city",
+    "population": "1915102",
+    "population:date": "2012",
+    "short_name": "Ouaga",
+    "source": "Institut Géographique du Burkina",
+    "source:population": "INSD.BF",
+    "wikidata": "Q3777",
+    "wikipedia": "en:Ouagadougou"
+  }
+},
+{
+  "type": "node",
+  "id": 358356490,
+  "lat": 12.4620997,
+  "lon": -1.5546303,
+  "tags": {
+    "alt_name": "Kamboinsé;Kamboinsin",
+    "alt_name:fr": "Kamboinsé;Kamboinsin",
+    "is_in:country": "Burkina Faso",
+    "is_in:department": "Ouagadougou",
+    "is_in:province": "Kadiogo",
+    "is_in:region": "Centre",
+    "name": "Kamboincé",
+    "name:fr": "Kamboincé",
+    "place": "village",
+    "population": "7683",
+    "population:date": "2006",
+    "source:population": "INSD.BF"
+  }
+},
+{
+  "type": "node",
+  "id": 902867125,
+  "lat": 12.3769440,
+  "lon": -1.4208330,
+  "tags": {
+    "FIXME": "please check exact position and fix if inaccurate",
+    "admin_level": "8",
+    "capital": "6",
+    "is_in:country": "Burkina Faso",
+    "is_in:country_code": "BF",
+    "is_in:department": "Saaba",
+    "is_in:province": "Kadiogo",
+    "is_in:province_code": "11",
+    "is_in:region": "Centre",
+    "is_in:region_code": "11",
+    "name": "Saaba",
+    "name:fr": "Saaba",
+    "note": "Inserted by script",
+    "place": "town",
+    "population": "9700",
+    "population:date": "2012",
+    "source": "NGA GEOnet Names Server (GNS)",
+    "source:population": "INSD.BF",
+    "wikidata": "Q7395534",
+    "wikipedia": "fr:Saaba"
+  }
+},
+{
+  "type": "node",
+  "id": 902961678,
+  "lat": 12.2718205,
+  "lon": -1.5670780,
+  "tags": {
+    "FIXME": "please check exact position and fix if inaccurate",
+    "admin_level": "8",
+    "capital": "8",
+    "is_in:country": "Burkina Faso",
+    "is_in:country_code": "BF",
+    "is_in:department": "Komsilga",
+    "is_in:province": "Kadiogo",
+    "is_in:province_code": "11",
+    "is_in:region": "Centre",
+    "is_in:region_code": "11",
+    "name": "Saonré",
+    "name:fr": "Saonré",
+    "note": "Inserted by script",
+    "place": "village",
+    "population": "537",
+    "source": "NGA GEOnet Names Server (GNS)",
+    "source:population": "INSD.BF"
+  }
+},
+{
+  "type": "node",
+  "id": 902962332,
+  "lat": 12.4276348,
+  "lon": -1.3832338,
+  "tags": {
+    "FIXME": "please check exact position and fix if inaccurate",
+    "admin_level": "8",
+    "capital": "8",
+    "is_in:country": "Burkina Faso",
+    "is_in:country_code": "BF",
+    "is_in:department": "Saaba",
+    "is_in:province": "Kadiogo",
+    "is_in:province_code": "11",
+    "is_in:region": "Centre",
+    "is_in:region_code": "11",
+    "name": "Gampéla",
+    "name:fr": "Gampéla",
+    "place": "village",
+    "population": "2176",
+    "population:date": "2012",
+    "source:population": "INSD.BF"
+  }
+},
+{
+  "type": "node",
+  "id": 902962405,
+  "lat": 12.4592205,
+  "lon": -1.3226913,
+  "tags": {
+    "admin_level": "8",
+    "capital": "8",
+    "is_in:country": "Burkina Faso",
+    "is_in:country_code": "BF",
+    "is_in:department": "Saaba",
+    "is_in:province": "Kadiogo",
+    "is_in:province_code": "11",
+    "is_in:region": "Centre",
+    "is_in:region_code": "11",
+    "name": "Kouidi",
+    "name:fr": "Kouidi",
+    "note": "Inserted by script",
+    "place": "village",
+    "population": "498",
+    "population:date": "2012",
+    "source": "NGA GEOnet Names Server (GNS)",
+    "source:population": "INSD.BF"
+  }
+},
+{
+  "type": "node",
+  "id": 902962513,
+  "lat": 12.3010304,
+  "lon": -1.3888050,
+  "tags": {
+    "admin_level": "8",
+    "capital": "8",
+    "is_in:country": "Burkina Faso",
+    "is_in:country_code": "BF",
+    "is_in:department": "Saaba",
+    "is_in:province": "Kadiogo",
+    "is_in:province_code": "11",
+    "is_in:region": "Centre",
+    "is_in:region_code": "11",
+    "name": "Tanlarghin",
+    "name:fr": "Tanlarghin",
+    "note": "Inserted by script",
+    "place": "village",
+    "population": "2485",
+    "population:date": "2012",
+    "source": "NGA GEOnet Names Server (GNS)",
+    "source:population": "INSD.BF"
+  }
+},
+{
+  "type": "node",
+  "id": 902962617,
+  "lat": 12.3956833,
+  "lon": -1.4386315,
+  "tags": {
+    "FIXME": "please check exact position and fix if inaccurate",
+    "admin_level": "8",
+    "capital": "8",
+    "is_in:country": "Burkina Faso",
+    "is_in:country_code": "BF",
+    "is_in:department": "Saaba",
+    "is_in:province": "Kadiogo",
+    "is_in:province_code": "11",
+    "is_in:region": "Centre",
+    "is_in:region_code": "11",
+    "name": "Nioko-I",
+    "name:fr": "Nioko",
+    "note": "Inserted by script",
+    "place": "town",
+    "population": "16427",
+    "population:date": "2012",
+    "source": "NGA GEOnet Names Server (GNS)",
+    "source:population": "INSD.BF"
+  }
+},
+{
+  "type": "node",
+  "id": 902968999,
+  "lat": 12.3473079,
+  "lon": -1.6804567,
+  "tags": {
+    "admin_level": "8",
+    "capital": "8",
+    "is_in:country": "Burkina Faso",
+    "is_in:country_code": "BF",
+    "is_in:department": "Tanghin-Dassouri",
+    "is_in:province": "Kadiogo",
+    "is_in:province_code": "11",
+    "is_in:region": "Centre",
+    "is_in:region_code": "03",
+    "name": "Tinsouka",
+    "name:fr": "Tinsouka",
+    "note": "Inserted by script",
+    "place": "village",
+    "population": "1697",
+    "population:date": "2012",
+    "source": "NGA GEOnet Names Server (GNS)",
+    "source:population": "INSD.BF"
+  }
+},
+{
+  "type": "node",
+  "id": 902969038,
+  "lat": 12.3909188,
+  "lon": -1.6720166,
+  "tags": {
+    "admin_level": "8",
+    "capital": "8",
+    "is_in:country": "Burkina Faso",
+    "is_in:country_code": "BF",
+    "is_in:department": "Tanghin-Dassouri",
+    "is_in:province": "Kadiogo",
+    "is_in:province_code": "11",
+    "is_in:region": "Centre",
+    "is_in:region_code": "03",
+    "name": "Zékounga",
+    "name:fr": "Zékounga",
+    "note": "Inserted by script",
+    "place": "village",
+    "population": "1198",
+    "population:date": "2012",
+    "source": "NGA GEOnet Names Server (GNS)",
+    "source:population": "INSD.BF"
+  }
+},
+{
+  "type": "node",
+  "id": 903015666,
+  "lat": 12.3705742,
+  "lon": -1.4546789,
+  "tags": {
+    "fixme": "please check exact postion and fix if inaccurate",
+    "name": "Tabtenga",
+    "note": "Inserted by script",
+    "place": "village",
+    "source": "NGA GEOnet Names Server (GNS)"
+  }
+},
+{
+  "type": "node",
+  "id": 919530802,
+  "lat": 12.4409181,
+  "lon": -1.3576774,
+  "tags": {
+    "FIXME": "please check exact position and fix if inaccurate",
+    "is_in:country": "Burkina Faso",
+    "is_in:country_code": "BF",
+    "is_in:department": "Saaba",
+    "is_in:province": "Kadiogo",
+    "is_in:province_code": "11",
+    "is_in:region": "Centre",
+    "is_in:region_code": "11",
+    "name": "Le Massili",
+    "name:fr": "Le Massili",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1593087898,
+  "lat": 12.3599824,
+  "lon": -1.5344244,
+  "tags": {
+    "name": "Bilbalogho",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1893912606,
+  "lat": 12.4618548,
+  "lon": -1.3127508,
+  "tags": {
+    "admin_level": "8",
+    "capital": "8",
+    "is_in:country": "Burkina Faso",
+    "is_in:country_code": "BF",
+    "is_in:department": "Saaba",
+    "is_in:province": "Kadiogo",
+    "is_in:province_code": "11",
+    "is_in:region": "Centre",
+    "is_in:region_code": "11",
+    "name": "Gonsé",
+    "name:fr": "Gonsé",
+    "place": "village",
+    "population": "995",
+    "population:date": "2012",
+    "source:population": "INSD.BF"
+  }
+},
+{
+  "type": "node",
+  "id": 3233239040,
+  "lat": 12.3446868,
+  "lon": -1.5027024,
+  "tags": {
+    "name": "Silmissin",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3296496974,
+  "lat": 12.3333989,
+  "lon": -1.5310937,
+  "tags": {
+    "name": "Paglayiri",
+    "place": "suburb",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3350189466,
+  "lat": 12.3562312,
+  "lon": -1.5033636,
+  "tags": {
+    "name": "Kalgodin",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3423523579,
+  "lat": 12.3898683,
+  "lon": -1.5769251,
+  "tags": {
+    "name": "Tampouy",
+    "place": "suburb",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3445213338,
+  "lat": 12.3275509,
+  "lon": -1.5153152,
+  "tags": {
+    "name": "Patte d'Oie",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3448394447,
+  "lat": 12.2903799,
+  "lon": -1.4754079,
+  "tags": {
+    "name": "Karpalin",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3448836389,
+  "lat": 12.3060727,
+  "lon": -1.5028592,
+  "tags": {
+    "name": "Ouaga 2000",
+    "place": "suburb",
+    "wikidata": "Q1273933"
+  }
+},
+{
+  "type": "node",
+  "id": 3470101559,
+  "lat": 12.4238886,
+  "lon": -1.3588421,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 3793832332,
+  "lat": 12.3617914,
+  "lon": -1.5508092,
+  "tags": {
+    "name": "Gounghin Nord",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3793832333,
+  "lat": 12.3532347,
+  "lon": -1.5454798,
+  "tags": {
+    "name": "Gounghin Sud",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4469884304,
+  "lat": 12.4305184,
+  "lon": -1.3794707,
+  "tags": {
+    "fixme": "name",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 4469884322,
+  "lat": 12.4373155,
+  "lon": -1.3661214,
+  "tags": {
+    "fixme": "name",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 4471794925,
+  "lat": 12.4519094,
+  "lon": -1.6741490,
+  "tags": {
+    "name": "Sabtenga",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 4895241248,
+  "lat": 12.3330757,
+  "lon": -1.3927839,
+  "tags": {
+    "name": "Mogden",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5089139001,
+  "lat": 12.2587250,
+  "lon": -1.5989666,
+  "tags": {
+    "name": "Silmissin",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5089139002,
+  "lat": 12.2659129,
+  "lon": -1.5975647,
+  "tags": {
+    "name": "Tiguindalgué",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5104966093,
+  "lat": 12.2514096,
+  "lon": -1.6309628,
+  "tags": {
+    "name": "Tang-Séga",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5109140611,
+  "lat": 12.2951513,
+  "lon": -1.6183712,
+  "tags": {
+    "name": "Boassa",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5121761131,
+  "lat": 12.2510326,
+  "lon": -1.5832180,
+  "tags": {
+    "name": "Zinguedessé",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5121761132,
+  "lat": 12.2505628,
+  "lon": -1.5929403,
+  "tags": {
+    "name": "Kagtoudin",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5221168816,
+  "lat": 12.4118547,
+  "lon": -1.4199936,
+  "tags": {
+    "name": "Barogo",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5490677412,
+  "lat": 12.3185112,
+  "lon": -1.5495215,
+  "tags": {
+    "name": "kouritinga",
+    "place": "neighbourhood",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5676552380,
+  "lat": 12.4121421,
+  "lon": -1.4943318,
+  "tags": {
+    "name": "Somgande",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 5831891633,
+  "lat": 12.4517207,
+  "lon": -1.4327985,
+  "tags": {
+    "name": "Nong-Warbin",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5891434018,
+  "lat": 12.3463218,
+  "lon": -1.3676369,
+  "tags": {
+    "name": "Tanguen",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5892631715,
+  "lat": 12.3576302,
+  "lon": -1.3732454,
+  "tags": {
+    "name": "Zaken",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5955180500,
+  "lat": 12.3338128,
+  "lon": -1.3665104,
+  "tags": {
+    "name": "Toéssen",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5955180501,
+  "lat": 12.3281502,
+  "lon": -1.3844356,
+  "tags": {
+    "name": "Nakomestenga-Peulh",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5957615889,
+  "lat": 12.3194688,
+  "lon": -1.3716281,
+  "tags": {
+    "name": "Séloguen",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5958633790,
+  "lat": 12.3092961,
+  "lon": -1.3975516,
+  "tags": {
+    "name": "Tangséga",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5965077694,
+  "lat": 12.3006796,
+  "lon": -1.3977850,
+  "tags": {
+    "name": "Tanlarkouri",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 6071148767,
+  "lat": 12.3087719,
+  "lon": -1.4212650,
+  "tags": {
+    "name": "Sogdin",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 6085506428,
+  "lat": 12.3021786,
+  "lon": -1.3626051,
+  "tags": {
+    "name": "Goguen",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 6090715587,
+  "lat": 12.3024354,
+  "lon": -1.3226724,
+  "tags": {
+    "name": "Tensobentenga",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 6206681654,
+  "lat": 12.2953190,
+  "lon": -1.3820753,
+  "tags": {
+    "name": "Wassoudi",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 6211057665,
+  "lat": 12.2705878,
+  "lon": -1.3701850,
+  "tags": {
+    "name": "Badnogo 2",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8358288662,
+  "lat": 12.2550137,
+  "lon": -1.3884509,
+  "tags": {
+    "name": "Q Narotin",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 8358288663,
+  "lat": 12.2573517,
+  "lon": -1.3890249,
+  "tags": {
+    "name": "Q Téoghin",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 8358288681,
+  "lat": 12.2537241,
+  "lon": -1.3859725,
+  "tags": {
+    "name": "Mogtédo",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8372546130,
+  "lat": 12.2658176,
+  "lon": -1.3696486,
+  "tags": {
+    "name": "Q Tangonkin",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8372716223,
+  "lat": 12.2561643,
+  "lon": -1.3648903,
+  "tags": {
+    "name": "Q Ipala",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 9214016963,
+  "lat": 12.2701870,
+  "lon": -1.4060591,
+  "tags": {
+    "description": "Yennenga est une ville nouvelle, en cours de construction, située à 15 km au sud-est de Ouagadougou",
+    "fixme": "Penser à changer le type de \"place\" quand la population aura augmenté",
+    "name": "Yennenga",
+    "place": "village",
+    "start_date": "2016",
+    "wikidata": "Q109332986",
+    "wikipedia": "fr:Yennenga (Koubri)"
+  }
+},
+{
+  "type": "node",
+  "id": 9214406931,
+  "lat": 12.4110386,
+  "lon": -1.6572757,
+  "tags": {
+    "description": "Ville nouvelle au Burkina Faso",
+    "name": "Bassinko",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9587569259,
+  "lat": 12.4163601,
+  "lon": -1.6280544,
+  "tags": {
+    "name": "Yagma",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 11345985358,
+  "lat": 12.4590594,
+  "lon": -1.6926348,
+  "tags": {
+    "name": "Nakamtenga",
+    "place": "village",
+    "source:name": "BNDT2012"
+  }
+},
+{
+  "type": "node",
+  "id": 12007333078,
+  "lat": 12.4519931,
+  "lon": -1.6615051,
+  "tags": {
+    "name": "Q-Komtoéga",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12015008737,
+  "lat": 12.4614715,
+  "lon": -1.6928212,
+  "tags": {
+    "name": "Q-Wattinoma",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12015008738,
+  "lat": 12.4644231,
+  "lon": -1.6908458,
+  "tags": {
+    "name": "Q-Yandghin",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12015008754,
+  "lat": 12.4550967,
+  "lon": -1.6903496,
+  "tags": {
+    "name": "Q-Natenga",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12915111592,
+  "lat": 12.3970121,
+  "lon": -1.6768688,
+  "tags": {
+    "name": "Q-Toéghin",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12915111594,
+  "lat": 12.3961633,
+  "lon": -1.6803986,
+  "tags": {
+    "name": "Q-Zap-Ram",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12915151222,
+  "lat": 12.3888910,
+  "lon": -1.6732639,
+  "tags": {
+    "name": "Q-Wanoaga",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12915151223,
+  "lat": 12.3956891,
+  "lon": -1.6732451,
+  "tags": {
+    "name": "Q-Bong-Norré",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12915151514,
+  "lat": 12.4095678,
+  "lon": -1.6988388,
+  "tags": {
+    "name": "Koankin II",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 12915364718,
+  "lat": 12.3950132,
+  "lon": -1.6518143,
+  "tags": {
+    "name": "Yalagré",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 12915364746,
+  "lat": 12.3897869,
+  "lon": -1.6487861,
+  "tags": {
+    "name": "Zékounga I",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 12917311934,
+  "lat": 12.3741256,
+  "lon": -1.6589248,
+  "tags": {
+    "name": "Q-Bissiguéwango",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12917311936,
+  "lat": 12.3707093,
+  "lon": -1.6619450,
+  "tags": {
+    "name": "Q-Koukin",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12917528819,
+  "lat": 12.3612275,
+  "lon": -1.6763109,
+  "tags": {
+    "name": "Sankouy",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 12918046282,
+  "lat": 12.3483524,
+  "lon": -1.6686666,
+  "tags": {
+    "name": "Q-Silmiwaylin",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 12918046421,
+  "lat": 12.3551883,
+  "lon": -1.6711557,
+  "tags": {
+    "name": "Q-Silmissin",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 13009637766,
+  "lat": 12.2516560,
+  "lon": -1.6916183,
+  "tags": {
+    "name": "Bagraogo",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13012296707,
+  "lat": 12.3213555,
+  "lon": -1.6891319,
+  "tags": {
+    "name": "Poédogo",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13017364980,
+  "lat": 12.2975977,
+  "lon": -1.6818014,
+  "tags": {
+    "name": "Yimdi",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13020965436,
+  "lat": 12.2715260,
+  "lon": -1.6772094,
+  "tags": {
+    "name": "Nédogo",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13021551143,
+  "lat": 12.2888183,
+  "lon": -1.6751575,
+  "tags": {
+    "name": "Q-Wavoussé",
+    "place": "quarter"
+  }
+}
+
+  ]
+}

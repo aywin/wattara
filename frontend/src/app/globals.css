@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+:root {
+  /* Neutres */
+  --background: #F3F4F6;
+  --foreground: #111827;
+
+  /* Couleurs principales */
+  --color-primary: #2667ad;   /* Bleu profond */
+  --color-secondary: #FACC15; /* Jaune solaire */
+  --color-accent: #14B8A6;    /* Vert turquoise */
+}
+/* postcss-ignore */
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-primary: var(--color-primary);
+  --color-secondary: var(--color-secondary);
+  --color-accent: var(--color-accent);
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #111827; /* gris foncé */
+    --foreground: #F3F4F6; /* gris clair */
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+.hero-bg-pattern {
+  background-image:
+    radial-gradient(circle at 20% 30%, #FACC15 0%, transparent 50%),
+    radial-gradient(circle at 80% 70%, #14B8A6 0%, transparent 50%);
+}
+
+/* Leaflet zone name tooltip */
+.wattara-zone-label {
+  background: rgba(255, 255, 255, 0.93);
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  border-radius: 4px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.15);
+  color: #111827;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 7px !important;
+  white-space: nowrap;
+}
+.wattara-zone-label::before {
+  display: none;
+}
+.wattara-zone-label--active {
+  background: rgba(220, 38, 38, 0.9);
+  border-color: rgba(185, 28, 28, 0.4) !important;
+  color: #fff;
+}

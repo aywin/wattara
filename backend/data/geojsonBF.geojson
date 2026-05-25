@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-10-13T21:14:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27863585",
+        "landuse": "residential",
+        "name": "Karpala",
+        "place": "neighbourhood",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4845442,
+          12.3314417
+        ]
+      },
+      "id": "way/27863585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27895577",
+        "landuse": "residential",
+        "name": "Nonsin",
+        "place": "suburb",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5626874,
+          12.375942
+        ]
+      },
+      "id": "way/27895577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27895692",
+        "landuse": "residential",
+        "name": "Nemnin",
+        "place": "neighbourhood",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5307262,
+          12.3816263
+        ]
+      },
+      "id": "way/27895692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27895707",
+        "landuse": "residential",
+        "name": "Paspanga",
+        "place": "neighbourhood",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5202278,
+          12.3790967
+        ]
+      },
+      "id": "way/27895707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153976450",
+        "name": "1200 Logements",
+        "place": "suburb",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4972685,
+          12.3658823
+        ]
+      },
+      "id": "way/153976450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1593087898",
+        "name": "Bilbalogho",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5344244,
+          12.3599824
+        ]
+      },
+      "id": "node/1593087898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3233239040",
+        "name": "Silmissin",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5027024,
+          12.3446868
+        ]
+      },
+      "id": "node/3233239040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3296496974",
+        "name": "Paglayiri",
+        "place": "suburb",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5310937,
+          12.3333989
+        ]
+      },
+      "id": "node/3296496974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3350189466",
+        "name": "Kalgodin",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5033636,
+          12.3562312
+        ]
+      },
+      "id": "node/3350189466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423523579",
+        "name": "Tampouy",
+        "place": "suburb",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5769251,
+          12.3898683
+        ]
+      },
+      "id": "node/3423523579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3445213338",
+        "name": "Patte d'Oie",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5153152,
+          12.3275509
+        ]
+      },
+      "id": "node/3445213338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3448394447",
+        "name": "Karpalin",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4754079,
+          12.2903799
+        ]
+      },
+      "id": "node/3448394447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3448836389",
+        "name": "Ouaga 2000",
+        "place": "suburb",
+        "wikidata": "Q1273933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5028592,
+          12.3060727
+        ]
+      },
+      "id": "node/3448836389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793832332",
+        "name": "Gounghin Nord",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5508092,
+          12.3617914
+        ]
+      },
+      "id": "node/3793832332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793832333",
+        "name": "Gounghin Sud",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5454798,
+          12.3532347
+        ]
+      },
+      "id": "node/3793832333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5490677412",
+        "name": "kouritinga",
+        "place": "neighbourhood",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5495215,
+          12.3185112
+        ]
+      },
+      "id": "node/5490677412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5676552380",
+        "name": "Somgande",
+        "place": "neighbourhood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4943318,
+          12.4121421
+        ]
+      },
+      "id": "node/5676552380"
+    }
+  ]
+}
